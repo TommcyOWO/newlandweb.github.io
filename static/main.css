@@ -1,0 +1,13 @@
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/edit-contrast.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Poppins&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+body::-webkit-scrollbar {
+    display: none;
+  }
